@@ -2,3 +2,4 @@
 numero=int(input("ingrese un numero = " ))
 resultado= numero**2
 print(resultado)
+
